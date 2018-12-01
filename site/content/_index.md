@@ -55,15 +55,10 @@ values:
 
 
     Mifi Device
-
     Battery
-
     Charger
-
-    Data plans 
-
+    Data plans
     Wifi Instructions of Use
-
     Easy delivery and return. Wifi on the go in Apartment, hotel, villa or 
     camping.
 ---
