@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: /img/mobile-wifi.jpg
 contact_entries:
   - heading: Location
     text: |-
@@ -20,3 +20,5 @@ contact_entries:
 });
 
 </script>
+
+contact
