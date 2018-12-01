@@ -7,7 +7,7 @@ contact_entries:
       Nerja Spain
       +34 951204264
   - heading: Spain
-    text: map
+    text: mapa
 ---
 <script charset="utf-8" type="text/javascript" 
 
