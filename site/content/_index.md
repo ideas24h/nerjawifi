@@ -1,7 +1,7 @@
 ---
 title: Nerja WiFi
 subtitle: 'Internet Everywhere '
-image: /img/header-nerja-wifi.jpg
+image: /img/mobile-wifi.jpg
 blurb:
   heading: 'Connection at fingertip '
   text: >-
