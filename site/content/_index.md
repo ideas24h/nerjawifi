@@ -54,12 +54,7 @@ values:
     The Mifi box includes:
 
 
-    Mifi Device
-    Battery
-    Charger
-    Data plans
-    Wifi Instructions of Use
-    Easy delivery and return. Wifi on the go in Apartment, hotel, villa or 
-    camping.
+    Mifi Device Battery Charger Data plans Wifi Instructions of Use Easy
+    delivery and return. Wifi on the go in Apartment, hotel, villa or  camping.
 ---
 
