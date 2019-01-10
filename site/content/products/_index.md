@@ -71,15 +71,15 @@ pricing:
         - Up to 5 Devices
         - Skype Audio compatible Video no recommended
         - Valid up to 30 Days
-      plan: 20 Gb
-      price: '75'
+      plan: 25 Gb
+      price: '90'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: 120 Gb
-      price: '120'
+      plan: 100 Gb
+      price: '150'
 ---
 
 

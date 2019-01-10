@@ -5,8 +5,6 @@ contact_entries:
   - heading: Location
     text: |-
       Nerja Spain
-      +34 951204264
-  - heading: Spain
-    text: Spain Map
+      info@nerjawifi.com
 ---
 Nerja WiFi Spain
