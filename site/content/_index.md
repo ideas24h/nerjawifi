@@ -27,8 +27,6 @@ intro:
 products:
   - image: /img/mobile-wifi.jpg
     text: 'We '
-  - image: ''
-    text: We 2
 values:
   heading: Rent a mobile Wifi Dongle in Spain
   text: >-
