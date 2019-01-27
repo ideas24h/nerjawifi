@@ -1,5 +1,5 @@
 ---
-title: Nerja WiFi
+title: Mobile Wifi Spain
 subtitle: 'Mobile Internet Everywhere '
 image: /img/header-nerja-wifi.jpg
 blurb:
@@ -26,11 +26,9 @@ intro:
     from your prepaid connection in Spain.
 products:
   - image: /img/mobile-wifi.jpg
-    text: >-
-      We 
+    text: 'We '
   - image: ''
-    text: >-
-      We 2
+    text: We 2
 values:
   heading: Rent a mobile Wifi Dongle in Spain
   text: >-
@@ -49,40 +47,5 @@ values:
 
     Mifi Device Battery Charger Data plans Wifi Instructions of Use Easy
     delivery and return. Wifi on the go in Apartment, hotel, villa or  camping.
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: 'Check email and browsing.'
-      items:
-      - 10 Gb included
-      - Check your Email
-      - Browsing
-      - Up to 7 Mbps
-      - Up to 5 Devices
-      - Skype Audio compatible Video no recommended
-      - Valid up to 30 Days
-      plan: 10 Gb
-      price: '50'
-    - description: 'Email, browsing and social media'
-      items:
-        - 20 Gb included
-        - Check your Email
-        - Browsing
-        - Up to 7 Mbps
-        - Up to 5 Devices
-        - Skype Audio compatible Video no recommended
-        - Valid up to 30 Days
-      plan: 25 Gb
-      price: '90'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: 100 Gb
-      price: '150'
 ---
+
