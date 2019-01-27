@@ -78,11 +78,4 @@ pricing:
         - Valid up to 30 Days
       plan: 25 Gb
       price: '90'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: 100 Gb
-      price: '150'
 ---
