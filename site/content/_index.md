@@ -1,6 +1,6 @@
 ---
 title: Mobile Wifi Spain
-subtitle: 'Mobile Internet Everywhere '
+subtitle: 'Pocket Wifi Spain '
 image: /img/header-nerja-wifi.jpg
 blurb:
   heading: 'Connection at fingertip '
